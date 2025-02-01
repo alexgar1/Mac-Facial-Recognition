@@ -1,6 +1,8 @@
 # Facial Recognition Security
 
-This script uses your computers webcam to identify if unauthorized users have logged in using a Histogram of Oriented Gradients model trained on your face. The script will alert if only an unidentified face is seen ie. if the owner logs on with someone else next to them it will not send an alert. Using shell script this can be added as a log in trigger to your Mac OS machine. Further modifications could send a text message alert if only an unidenitified face is seen.
+This script uses your computers webcam to identify if unauthorized users have logged in using a Histogram of Oriented Gradients model trained on your face. 
+
+The script will alert if only an unidentified face is seen ie. if the owner logs on with someone else next to them it will not send an alert. Using shell script this can be added as a log in trigger to your Mac OS machine. Further modifications could send a text message alert if only an unidenitified face is seen.
 
 ## Usage
 
